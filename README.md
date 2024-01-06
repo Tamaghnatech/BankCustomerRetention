@@ -1,5 +1,5 @@
 # Bank Customer Churn Prediction
-![Customer_Retention](path/to/your/image)
+![Customer_Retention](customer-retenson.jpeg)
 
 ## Project Overview
 This project involves predicting customer churn in the banking industry using machine learning techniques. It uses the Bank Customer Churn dataset to identify customers who are likely to leave the bank. The dataset includes various attributes such as customer ID, credit score, geography, gender, age, balance, and more.
